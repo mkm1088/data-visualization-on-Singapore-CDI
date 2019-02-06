@@ -1,2 +1,4 @@
 # data-visualization-on-Singapore-CDI
-Academic using Tableau
+Academic project using Tableau
+
+#using SQL scripts, the data is loaded into tableau for visualization 
